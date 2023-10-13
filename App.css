@@ -1,0 +1,77 @@
+.bg-c-light{
+  background-color: rgba(152, 148, 149, 0.258);
+}
+.logo{
+  width: 80px;
+  
+  background-size: contain;
+}
+.underline{
+  height: 4px;
+  width: 4rem;
+  background-color: rgba(211, 200, 200, 0.945);
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+.heading{
+  color: rgb(224, 35, 35);
+  font-size: 20px;
+  text-align: center;
+  justify-content: center;
+  padding: 10px;
+  font-weight: 500px;
+  
+}
+.section{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.col-md-4 {
+  text-align: end;
+}
+.text{
+  text-align: center;
+}
+p{
+  font-size: 14px;
+  
+ 
+}
+
+
+.card-body{
+  background-color: azure;
+}
+
+.footer{
+  color: #fff;
+  text-decoration: none;
+}
+.footer a:hover{
+   color: gray;
+}
+.navbar-brand{
+  color: #fff;
+}
+.nav-item{
+  color: #fff;
+}
+/* Custom CSS for Navbar */
+.navbar-brand:hover {
+
+  color: #ff5722;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  /* Example: Add a background color change effect on hover */
+  background-color: #acbccd;
+  color: #fff;
+  transition: background-color 0.3s ease, color 0.3s ease; 
+}
+
+
+.nav-link:hover {
+  cursor: pointer;
+}
